@@ -11,6 +11,6 @@ public class MyAverage extends MyValues{
         }
         Avg = Avg / A.length;
 
-        return Avg;
+        return Avg; //have
     }
 }
